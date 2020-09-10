@@ -1,0 +1,11 @@
+[package]
+name = "minituna-rs"
+version = "0.1.0"
+authors = ["yytyd <toyoda_yuki@cyberagent.co.jp>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ordered-float = "2.0.0"
+rand = "0.7.3"
